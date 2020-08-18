@@ -87,5 +87,5 @@
 		}
 	}
 	echo "</tbody>
-				  		</table>";
+		</table>";
  ?>
