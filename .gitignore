@@ -168,4 +168,7 @@ GitHub.sublime-settings
 #Vendor folder
 vendor/
 
+#Google Sheet API
+credentials.json
+
 # End of https://www.toptal.com/developers/gitignore/api/sublimetext,phpstorm,macos
